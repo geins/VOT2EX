@@ -1,4 +1,4 @@
-#EagleTree Vector Open Telemetry Protocol -> JETI EX Telemetry (VOT2EX)
+# EagleTree Vector Open Telemetry Protocol -> JETI EX Telemetry (VOT2EX)
 **v1.0 - 01.09.2017 - Ralf Heigermoser**
 
 This is an Arduino Project, trying to get and convert the Open Telemetry Packet from the EagleTree Vector Flightcontroller, sent over UART. It performs a conversion and sends it as Jeti EX protocol to a Jeti receiver.
@@ -21,8 +21,8 @@ PIN 13 is attached to the integrated led. It flashes, as legit packets are recei
 
 ![Wiring Diagram](https://github.com/geins/VOT2EX/blob/master/arduino-wiring-scheme.png)
 
-#Kudos go to:
-###Bernd Wokoeck:
+# Kudos go to:
+### Bernd Wokoeck:
 Jeti Sensor EX Telemetry C++ Library  
 JetiExProtocol - EX protocol implementation  
 Copyright (C) 2015, 2016 Bernd Wokoeck  
@@ -47,7 +47,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 
-###EAGLE TREE:
+### EAGLE TREE:
 From: [RCGroups](https://www.rcgroups.com/forums/showthread.php?2585582-Vector-Open-Telemetry-and-DragonLink-Advanced-support%21)
 
 Vector Open Telemetry Revision 0  
