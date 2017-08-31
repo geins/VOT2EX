@@ -22,7 +22,7 @@ TTL RS232 RX              -> PIN 11 SoftSerial Arduino Pro Mini (Soft-TX)
 PIN 13 is attached to the integrated led. It flashes, as legit packets are received and transmitted to Jeti. The (erratic) rhythm gives a clue about CRC-errors.
 
 ![Wiring Diagram 1](https://github.com/geins/VOT2EX/blob/master/arduino-wiring-scheme.png)
-![Wiring Diagram 2](https://github.com/geins/VOT2EX/blob/master/Vecor-uart-pinout.jpg)
+![Wiring Diagram 2](https://github.com/geins/VOT2EX/blob/master/Vector-uart-pinout.jpg)
 
 # Kudos go to:
 ### Bernd Wokoeck:
